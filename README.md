@@ -10,13 +10,10 @@ Top Performing Products: Highlight of the best-selling coffee products.
 Profit Analysis: Detailed analysis of profit margins for each coffee type.
 Interactive Filters: Ability to filter data by date ranges, regions, and coffee types.
 Files
-Coffee_Sales_Dashboard.xlsx: The main Excel file containing the dashboard.
-Coffee_Sales_Data.xlsx: The raw data file with sales and profit information.
-How to Use
-Open the Dashboard:
-
-Open the  file in Microsoft Excel.
+you can get the excel files from here "https://github.com/mochen862/excel-project-coffee-sales.git" to open it in Microsoft Excel.
 Explore the Dashboard:
+![image](https://github.com/user-attachments/assets/4eda5c8f-7fb4-4226-a094-ac8178d61b4c)
+
 
 Navigate through the different sheets to view various visualizations and insights.
 Use the interactive filters to refine the data displayed on the dashboard.
@@ -30,7 +27,7 @@ Sales Summary:
 Provides a quick overview of the total sales and profit for the selected period.
 Product Performance:
 
-Displays a bar chart showing the sales and profit for each coffee type.
+Displays a line chart showing the sales for each coffee type.
 Helps identify which coffee types are performing well and which ones need attention.
 Top Performing Products:
 
